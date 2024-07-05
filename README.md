@@ -2,6 +2,14 @@
 This is a try at creating google keep within 2 days with minimum features
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+## Working changes
+
+
+https://github.com/saxenatanya/Google-Keep-Try/assets/82470912/7bd1121c-7055-4ac6-9013-2e7aaf5ac9ec
+
+
+
 ## Available Scripts
 
 In the project directory, you can run:
